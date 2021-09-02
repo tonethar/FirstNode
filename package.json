@@ -1,0 +1,27 @@
+{
+  "name": "firstnode",
+  "version": "1.0.0",
+  "description": "week 2A demo",
+  "main": "./src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tonethar/FirstNode.git"
+  },
+  "keywords": [
+    "430",
+    "underscore"
+  ],
+  "author": "tony",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/tonethar/FirstNode/issues"
+  },
+  "homepage": "https://github.com/tonethar/FirstNode#readme",
+  "dependencies": {
+    "underscore": "^1.13.1"
+  }
+}
